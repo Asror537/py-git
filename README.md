@@ -1,4 +1,3 @@
-@'
 # Backend Roadmap
 
 My personal roadmap for becoming a Backend Developer.
@@ -22,4 +21,7 @@ Python Core and Git fundamentals.
 ## Goal
 
 Build a strong programming foundation, develop production-oriented backend skills, and prepare for an internship or junior backend position.
-'@ | Set-Content -Encoding utf8 README.md
+
+## Git Practice
+
+Learning branches and merging in Git.
