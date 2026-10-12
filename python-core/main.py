@@ -12,3 +12,5 @@ def analyze_numbers(numbers):
 
 
 print(analyze_numbers([2, 4, 6, 8]))
+
+# Learning Git: working with commits
